@@ -1,0 +1,20 @@
+{
+  "name": "TodoAppInReact",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "classnames": "^2.2.5",
+    "emoji-annotation-to-unicode": "^0.2.4",
+    "emoji-emoticon-to-unicode": "^0.2.2",
+    "escape-string-regexp": "^1.0.5",
+    "lodash.compact": "^3.0.1",
+    "meteor-node-stubs": "~0.2.0",
+    "object-assign": "^4.1.0",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
